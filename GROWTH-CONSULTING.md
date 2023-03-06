@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Engineer Growth & Mentorship"
 permalink: /eng-growth
-
+---
 
 # I help engineers tell the best story of their work
 I put their work in the best light, coach them through the growth process from entry-level software engineer up through senior and staff engineering.
