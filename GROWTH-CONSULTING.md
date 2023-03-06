@@ -6,9 +6,9 @@ permalink: /eng-growth
 ---
 
 # I help engineers tell the best story of their work
-Life at tech corperations shouldn't be all about "playing the game", and I'm here to help.
+Life at tech corporations shouldn't be all about "playing the game", and I'm here to help.
 
-I put Software Engineer's work in the best light, coach them through the growth process from entry-level software engineer up through senior and staff engineering. All without the corporate BS. Finding it hard to learn from "canonical coworkers" as examples? Been there..
+I put software engineer's work in the best light, coach them through the growth process from entry-level software engineer up through senior and staff engineering. All without the corporate BS. Finding it hard to learn from "canonical coworkers" as examples? Been there..
 
 From promotion packets to tech specs, I have experience crafting clear communication, confident language, and consistent messaging. I've been mentoring engineers for years through the same journey of defining their own personal story and why they excel in tech. 
 
@@ -32,4 +32,4 @@ Hit me up on [instagram](https://instagram.com/rjmarsan), [twitter](https://twit
 
 # About me
 I'm [RJ Marsan](https://www.linkedin.com/in/rjmarsan/). I've been working in the SF Bay tech scene since 2010 at some of the biggest names in tech: Google, Lyft and Hulu. 
-I've scaled the corperate ladder from entry level Software Engineer to Staff Engineer, Manager, and now proudly taking a long overdue break from the grind. Usually you'll find me on my bike or hanging at a coffee shop.
+I've scaled the corporate ladder from entry level Software Engineer to Staff Engineer, Manager, and now proudly taking a long overdue break from the grind. Usually you'll find me on my bike or hanging at a coffee shop.
