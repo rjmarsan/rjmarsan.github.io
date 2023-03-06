@@ -1,18 +1,25 @@
 ---
 layout: page
-title: "Engineer Growth & Mentorship"
+title: "Engineer Growth & Mentorship by RJ Marsan"
+description: "I help engineers tell the best story of their work, learn more about how you can too"
 permalink: /eng-growth
 ---
 
 # I help engineers tell the best story of their work
-I put their work in the best light, coach them through the growth process from entry-level software engineer up through senior and staff engineering.
+Life at tech corperations shouldn't be all about "playing the game", and I'm here to help.
 
-From promotion packets to tech specs, I have experience crafting clear communication, confident language, and consistent messaging, and mentor engineers through the same journey. 
+I put Software Engineer's work in the best light, coach them through the growth process from entry-level software engineer up through senior and staff engineering. All without the corporate BS. Finding it hard to learn from "canonical coworkers" as examples? Been there..
+
+From promotion packets to tech specs, I have experience crafting clear communication, confident language, and consistent messaging. I've been mentoring engineers for years through the same journey of defining their own personal story and why they excel in tech. 
+
+If you're looking to reach the next level of your career, make a big move at a new company, or just get the credit you deserve for your work, I'm here to help.
 
 ## What I can help with
 * Promotion Packets
 * Performance Reflections
 * Peer Reviews
+* Interviewing
+* Resume, Cover Letters
 * Technical Presentations & Specs
 * Growth Guidance
 
